@@ -350,6 +350,8 @@ typedef VectorD<uint32_t, 5> Vector5ui;
 typedef VectorD<uint32_t, 6> Vector6ui;
 typedef VectorD<uint32_t, 7> Vector7ui;
 
+typedef VectorD<uint8_t, 4> Vector4ui8;
+
 }  // namespace draco
 
 #endif  // DRACO_CORE_VECTOR_D_H_
